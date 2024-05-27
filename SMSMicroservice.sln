@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSMicroservice", "SMSMicroservice\SMSMicroservice.csproj", "{70D8A38F-BCE6-4642-B5C7-3A5B6F0CF53B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSMicroserviceTests", "SMSMicroserviceTests\SMSMicroserviceTests.csproj", "{47AB756C-7A27-433D-814E-43F3D24DA833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D8A38F-BCE6-4642-B5C7-3A5B6F0CF53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D8A38F-BCE6-4642-B5C7-3A5B6F0CF53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D8A38F-BCE6-4642-B5C7-3A5B6F0CF53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D8A38F-BCE6-4642-B5C7-3A5B6F0CF53B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AB756C-7A27-433D-814E-43F3D24DA833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AB756C-7A27-433D-814E-43F3D24DA833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AB756C-7A27-433D-814E-43F3D24DA833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AB756C-7A27-433D-814E-43F3D24DA833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
